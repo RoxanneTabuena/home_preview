@@ -441,7 +441,7 @@ label, p, td {
 }
 
 .banner {
-    background-image: url('/img/mobile_promo.gif');
+    background-image: url('https://imagehostclub.s3.us-west-1.amazonaws.com/rhema/homepage/mobile_promo.gif');
 }
 
 .scroller {
@@ -572,7 +572,7 @@ li.title {
 }
 
 .banner {
-    background-image: url('/img/desk_promo.gif');
+    background-image: url('https://imagehostclub.s3.us-west-1.amazonaws.com/rhema/homepage/desk_promo.gif');
 }
 
 .scroller {
