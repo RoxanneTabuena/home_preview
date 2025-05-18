@@ -489,22 +489,22 @@ menu {
 }
 /* typography sizing */
 nav {
-    font-size: 3rem;
+    font-size: 2.5rem;
 }
 
 h1{
-    font-size: 8rem;
+    font-size: 6rem;
 }
 
 header>* {
-    font-size: 3rem;
+    font-size: 2.5rem;
 }
 
 footer>* {
     font-size: 2rem;
 }
 .major-title> .just-start > h2{
-    font-size: 4.7rem;
+    font-size: 3.5rem;
 }
 
 h2 {
@@ -513,7 +513,7 @@ h2 {
 
 .major-title>.just-start>.icon {
     margin-left: 1rem;
-    height: 3.7rem;
+    height: 3.5rem;
 }
 
 li.title {
